@@ -1,0 +1,1 @@
+import{fr as e,vr as t}from"./bootstrap-D3VRY3fx.js";export{e as getNavidromeConfig,t as navidromeApi};
